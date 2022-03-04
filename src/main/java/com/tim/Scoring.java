@@ -1,6 +1,6 @@
 package com.tim;
 
-public class scoring {
+public class Scoring {
     public static void main(String[] args) {
         String[] names={"a","b","c","d","e"};
         int[] eng={100,90,80,70,60};
