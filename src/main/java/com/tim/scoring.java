@@ -6,6 +6,8 @@ public class scoring {
         int[] eng={100,90,80,70,60};
         int[] math={80,70,60,50,40};
         for (int i = 0; i < 5; i++) {
+            if(i==3)
+                System.out.println(names[i]);
             if(i!=3) {
                 int s;
                 s = (math[i] + eng[i]) / 2;
