@@ -1,0 +1,16 @@
+com/tim/ScoringBad.java
+ com.tim.ScoringBad
+com/tim/Scoring/GraduateStudent.java
+ com.tim.Scoring.GraduateStudent
+com/tim/Scoring/Student.java
+ com.tim.Scoring.Student
+com/tim/HelloWorld.java
+ com.tim.HelloWorld
+com/tim/Scoring/NiceScoring.java
+ com.tim.Scoring.NiceScoring
+com/tim/Shop/Vipnormal.java
+ com.tim.Shop.Vipnormal
+com/tim/Shop/Shop.java
+ com.tim.Shop.Shop
+com/tim/Shop/VipAg.java
+ com.tim.Shop.VipAg
