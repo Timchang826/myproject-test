@@ -4,7 +4,6 @@ public class Vipnormal {
     String name;
     int originalmoney;
     int money;
-    int backmoney;
     public Vipnormal(String name, int money){
         this.originalmoney=money;
         this.name=name;

@@ -8,9 +8,9 @@ com/tim/HelloWorld.java
  com.tim.HelloWorld
 com/tim/Scoring/NiceScoring.java
  com.tim.Scoring.NiceScoring
-com/tim/Shop/Vipnormal.java
- com.tim.Shop.Vipnormal
 com/tim/Shop/Shop.java
  com.tim.Shop.Shop
 com/tim/Shop/VipAg.java
  com.tim.Shop.VipAg
+com/tim/Shop/Vipnormal.java
+ com.tim.Shop.Vipnormal

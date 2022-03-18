@@ -1,14 +1,11 @@
 package com.tim.Shop;
 
-public class VipAg {
-    String name;
-    int originalmoney;
-    int money;
+public class VipAg extends Vipnormal {
     int backmoney;
+    int originalmoney;
     public VipAg(String name,int money){
+        super(name, money);
         this.originalmoney=money;
-        this.name=name;
-        this.money=money-(money/1000)*100;
         this.backmoney=(money/1000)*100;
 
     }
