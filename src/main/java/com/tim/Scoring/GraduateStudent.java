@@ -1,6 +1,6 @@
-package com.tim;
+package com.tim.Scoring;
 
-public class GraduateStudent extends Student{
+public class GraduateStudent extends Student {
     int thesis;
     public GraduateStudent(String name,int eng,int math,int thesis){
 

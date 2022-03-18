@@ -1,4 +1,4 @@
-package com.tim;
+package com.tim.Scoring;
 
 public class Student {
     String name;
