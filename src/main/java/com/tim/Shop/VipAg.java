@@ -5,7 +5,6 @@ public class VipAg extends Vipnormal {
     int originalmoney;
     public VipAg(String name,int money){
         super(name, money);
-        this.originalmoney=money;
         this.backmoney=(money/1000)*100;
 
     }
